@@ -5,6 +5,6 @@ This is a repository for gathering feedback related to Rapid Structure Triage (a
 A Structures Specialist performs various structural assessments for an Urban Search & Rescue Task Force during incident operations. The StS reports directly to the Planning Team Manager, but will often be assigned to the Search Team or Rescue Team Manager.
 
 # Links
-Disaster Engineer Website http://www.disasterengineer.org/
-Version 1.0 of the Rapid Structure Triage Form in Survey123 (RST 1/2) https://arcg.is/PSyu9
+- Disaster Engineer Website http://www.disasterengineer.org/
+- Version 1.0 of the Rapid Structure Triage Form in Survey123 (RST 1/2) https://arcg.is/PSyu9
 
