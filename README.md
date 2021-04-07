@@ -6,5 +6,5 @@ A Structures Specialist performs various structural assessments for an Urban Sea
 
 # Links
 - Disaster Engineer Website http://www.disasterengineer.org/
-- Version 1.0 of the Rapid Structure Triage Form in Survey123 (RST 1/2) https://arcg.is/PSyu9
+- Prototypes https://sargis.napsgfoundation.org/pages/prototypes
 
