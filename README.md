@@ -8,3 +8,7 @@ A Structures Specialist performs various structural assessments for an Urban Sea
 - Disaster Engineer Website http://www.disasterengineer.org/
 - Prototypes https://sargis.napsgfoundation.org/pages/prototypes
 
+  Screenshot of RST Prototype in QuickCapture
+  ![image](https://github.com/pjdohertygis/RapidStructureTriage/assets/4256979/4a4677a7-2088-4551-a9cd-ccc0551bd362)
+
+
